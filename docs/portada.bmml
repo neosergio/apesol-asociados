@@ -1,0 +1,268 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1419" measuredH="797" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="395" y="29" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asociados%20APESOL%0Ahttp%3A//asociados.apesol.org.pe</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="1005" y="119" w="-1" h="-1" measuredW="358" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asociados%20APESOL</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="466" y="173" w="882" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Image" x="466" y="115" w="176" h="51" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>portada%26bm%3Bportada.bmml%26bm%3Bportada.bmml%26bm%3Bportada.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2271%2C86%2C247%2C137%22%20href%3D%22portada.bmml%22%20alt%3D%22portada%22%20id%3D%2245%22/%3E</map>
+        <text>logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="466" y="206" w="198" h="218" measuredW="198" measuredH="218" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2271%2C177%2C269%2C395%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="46">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C192%2C232%2C307%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="46">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C322%2C191%2C349%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="46">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C353%2C192%2C380%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47" controlTypeID="__group__" x="466" y="462" w="198" h="218" measuredW="198" measuredH="218" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="47">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2271%2C433%2C269%2C651%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="47">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C448%2C232%2C563%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="47">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C578%2C191%2C605%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="47">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C609%2C192%2C636%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="48" controlTypeID="__group__" x="694" y="462" w="198" h="218" measuredW="198" measuredH="218" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="48">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22299%2C433%2C497%2C651%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="48">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22337%2C448%2C460%2C563%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="48">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22322%2C578%2C419%2C605%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="48">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22322%2C609%2C420%2C636%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="49" controlTypeID="__group__" x="928" y="462" w="198" h="218" measuredW="198" measuredH="218" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="49">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22533%2C433%2C731%2C651%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="49">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22571%2C448%2C694%2C563%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="49">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22556%2C578%2C653%2C605%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="49">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22556%2C609%2C654%2C636%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="50" controlTypeID="__group__" x="1150" y="462" w="198" h="218" measuredW="198" measuredH="218" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="50">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22755%2C433%2C953%2C651%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="50">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22793%2C448%2C916%2C563%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="50">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22778%2C578%2C875%2C605%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="50">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22778%2C609%2C876%2C636%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="51" controlTypeID="__group__" x="694" y="206" w="198" h="218" measuredW="198" measuredH="218" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="51">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22299%2C177%2C497%2C395%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="51">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22337%2C192%2C460%2C307%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="51">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22322%2C322%2C419%2C349%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="51">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22322%2C353%2C420%2C380%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="__group__" x="928" y="206" w="198" h="218" measuredW="198" measuredH="218" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="52">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22533%2C177%2C731%2C395%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="52">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22571%2C192%2C694%2C307%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="52">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22556%2C322%2C653%2C349%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="52">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22556%2C353%2C654%2C380%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="1150" y="206" w="198" h="218" measuredW="198" measuredH="218" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="198" h="218" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="53">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22755%2C177%2C953%2C395%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="38" y="15" w="123" h="115" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="53">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22793%2C192%2C916%2C307%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="145" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="53">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22778%2C322%2C875%2C349%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%222%22/%3E</map>
+            <text>Nombres</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="23" y="176" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="53">
+          <controlProperties>
+            <href>asociado%26bm%3Basociado.bmml%26bm%3Basociado.bmml%26bm%3Basociado.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22778%2C353%2C876%2C380%22%20href%3D%22asociado.bmml%22%20alt%3D%22asociado%22%20id%3D%223%22/%3E</map>
+            <text>Apellidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Paragraph" x="466" y="708" w="882" h="80" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Asociaci%F3n%20Peruana%20de%20Software%20Libre</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

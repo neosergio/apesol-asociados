@@ -1,0 +1,130 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1430" measuredH="1133" mockupW="1024" mockupH="1100">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="406" y="33" w="1024" h="1100" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asociados%20APESOL%0Ahttp%3A//asociados.apesol.org.pe</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="466" y="173" w="882" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="466" y="212" w="300" h="400" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SubTitle" x="466" y="627" w="-1" h="-1" measuredW="113" measuredH="31" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Nombres</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::SubTitle" x="466" y="667" w="-1" h="-1" measuredW="131" measuredH="35" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Apellidos</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::SubTitle" x="466" y="753" w="-1" h="-1" measuredW="222" measuredH="31" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Datos%20Personales</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::List" x="460" y="799" w="533" h="220" measuredW="100" measuredH="216" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <size>16</size>
+        <text>e-mail%3A%20nombre.apellido@apesol.org.pe%0AGithub%3A%20nickname%0ABitbucket%3A%20nickname%0ASourceforge%3A%20nickname%0ALaunchpad%3A%20nickname%0ATwitter%3A%20@nickname%0AFacebook%3A%20nickname@facebook.com%0ALinkedin%3A%20Perfil%20principal%20%7C%20Perfil%20en%20otro%20idioma%0AGoogle+%3A%20Perfil%0ABlog%3A%20url</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::SubTitle" x="805" y="250" w="-1" h="-1" measuredW="347" measuredH="31" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Contribuciones%20a%20proyectos</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::List" x="805" y="281" w="533" h="68" measuredW="100" measuredH="126" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <size>16</size>
+        <text>Enlace%201%0AEnlace%202%0AEnlace%203</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::SubTitle" x="805" y="355" w="-1" h="-1" measuredW="174" measuredH="31" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Publicaciones</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::List" x="805" y="389" w="533" h="68" measuredW="100" measuredH="126" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <size>16</size>
+        <text>Enlace%201%0AEnlace%202%0AEnlace%203</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::SubTitle" x="466" y="708" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Karma%28%3F%29%3A%20XXX</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::SubTitle" x="805" y="462" w="-1" h="-1" measuredW="265" measuredH="31" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Expositor%20/%20Tallerista</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::List" x="805" y="493" w="533" h="68" measuredW="100" measuredH="126" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <size>16</size>
+        <text>Enlace%201%0AEnlace%202%0AEnlace%203</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::SubTitle" x="805" y="569" w="-1" h="-1" measuredW="558" measuredH="31" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Organizador%20de%20Eventos%20/%20Talleres%20/%20Cursos</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::List" x="805" y="615" w="533" h="68" measuredW="100" measuredH="126" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <size>16</size>
+        <text>Enlace%201%0AEnlace%202%0AEnlace%203</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="466" y="115" w="176" h="51" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>portada%26bm%3Bportada.bmml%26bm%3Bportada.bmml%26bm%3Bportada.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C82%2C236%2C133%22%20href%3D%22portada.bmml%22%20alt%3D%22portada%22%20id%3D%2256%22/%3E</map>
+        <text>logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Button" x="1152" y="114" w="196" h="53" measuredW="195" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>portada%26bm%3Bportada.bmml%26bm%3Bportada.bmml%26bm%3Bportada.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22746%2C81%2C942%2C134%22%20href%3D%22portada.bmml%22%20alt%3D%22portada%22%20id%3D%2257%22/%3E</map>
+        <size>20</size>
+        <text>Lista%20de%20asociados</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Paragraph" x="466" y="1053" w="882" h="80" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Asociaci%F3n%20Peruana%20de%20Software%20Libre</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
